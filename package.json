@@ -1,0 +1,24 @@
+{
+  "name": "127project",
+  "version": "1.0.0",
+  "description": "UPLB Alumni Records System",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "morgan": "^1.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZetaHaro/127project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZetaHaro/127project/issues"
+  },
+  "homepage": "https://github.com/ZetaHaro/127project#readme"
+}
